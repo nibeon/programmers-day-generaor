@@ -9,8 +9,7 @@ print("This is a program to determine the day of the programmer.")
 print("This program is desirable to run on New Year's Eve after midnight!", end='\n')
 
 # get year
-a = datetime.today().strftime("%Y%m%d")
-this_year = a[0:4]
+this_year = datetime.today().year
 
 print("Hello in ", this_year, " year!", end='\n')
 
