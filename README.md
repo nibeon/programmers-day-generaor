@@ -1,2 +1,2 @@
 # programmers-day-generaor
-script for generate of True Programmer's Day for every new year.
+script for generate of true Programmer's Day for every new year.
