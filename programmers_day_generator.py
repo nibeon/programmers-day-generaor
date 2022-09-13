@@ -6,7 +6,7 @@ print("Programmer's Day Generator.", end='\n')
 print("=============================", end='\n')
 
 print("This is a program to determine the day of the programmer.")
-print("This program is desirable to run on New Year's Eve!", end='\n')
+print("This program is desirable to run on New Year's Eve after midnight!", end='\n')
 
 # get year
 a = datetime.today().strftime("%Y%m%d")
